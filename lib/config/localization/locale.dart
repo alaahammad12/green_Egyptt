@@ -103,6 +103,9 @@ class ApplicationLocal implements Translations {
           '': '',
           '': '',
           '': '',
+          '': '',
+          '': '',
+          '': '',
         },
         'en': {
           'EARNED': 'earned',
